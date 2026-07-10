@@ -6,8 +6,8 @@
 **Program:** ZENAIZ x BVRIT Hyderabad Data Engineering Internship Program  
 **Track:** Data Engineering  
 **Duration:** 12 Weeks  
-**Team:** [Team Number / Team Name]  
-**Students:** [Student 1], [Student 2], [Student 3]  
+**Team:** [20 / Team Name]  
+**Students:** Mounika Mundra, [Student 2], [Student 3]  
 **AI Teammate:** Used responsibly for explanation, debugging, review, and documentation support.
 
 ---
