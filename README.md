@@ -14,7 +14,7 @@
 
 ## 1. Project Summary
 
-Write 5–8 lines explaining the assigned project.
+ERPulse demonstrates a complete end-to-end data engineering solution that transforms raw synthetic hospital data into trusted, decision-ready insights using modern lakehouse architecture and real-time analytics.
 
 Example structure:
 
