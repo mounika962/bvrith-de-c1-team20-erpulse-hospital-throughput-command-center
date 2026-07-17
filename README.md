@@ -7,7 +7,7 @@
 **Track:** Data Engineering  
 **Duration:** 12 Weeks  
 **Team:** 20 / ERPulse:Hospital Throughput Command Center 
-**Students:** Rishika Sthambamkadi, K.Manasa, Mounika Mundra
+**Students:** K.Manasa, Mounika Mundra
 **AI Teammate:** Used responsibly for explanation, debugging, review, and documentation support.
 
 ---
