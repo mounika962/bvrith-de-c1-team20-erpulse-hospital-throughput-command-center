@@ -19,7 +19,7 @@ ERPulse demonstrates a complete end-to-end data engineering solution that transf
 Example structure:
 
 - **Domain:** Healthcare Operations
-- **Core engineering problem:** [What raw data needs to become trusted insight?]
+- **Core engineering problem:** Transform fragmented synthetic hospital operational data (visits, departments, staff, beds, and patient status events) into trusted, decision-ready insights by cleaning, validating, integrating, and monitoring patient flow through a lakehouse pipeline.
 - **Main pipeline:** Raw Sources → Bronze → Silver → Data Quality → Gold → Power BI → Streaming Simulation
 - **Final outcome:** GitHub repo, Databricks notebooks, Gold outputs, Power BI dashboard, streaming simulation, final demo.
 
