@@ -19,8 +19,8 @@ Inspect and validate the provided Student Data Pack, verify source file integrit
 |---|---|---|---|
 | [Task] | [Student] | [Done / In progress] | [file / screenshot / notebook] |
 | Prepared and updated `weekly_logs/week02_log.md` with sprint progress, decisions, blockers, and AI transparency |
-Student 1 | Done | `weekly_logs/week02_log.md`, GitHub commit: https://github.com/mounika962/bvrith-de-c1-team20-erpulse-hospital-throughput-command-center/commit/dd4943e7234a09226af08c6d990b6b60c3655587 |
-| Prepared `docs/synthetic_data_assumptions.md` and updated project summary/documentation after validating the datasets | Student 2 | Done | `docs/synthetic_data_assumptions.md`, updated project summary, GitHub commit/screenshot |
+Student 1 | Done | `weekly_logs/week02_log.md`, GitHub commit:https://github.com/mounika962/bvrith-de-c1-team20-erpulse-hospital-throughput-command-center/tree/main/weekly_logs
+| Prepared `docs/synthetic_data_assumptions.md` and updated project summary/documentation after validating the datasets | Student 2 | Done | `docs/synthetic_data_assumptions.md`, updated project summary, GitHub commit: https://github.com/mounika962/bvrith-de-c1-team20-erpulse-hospital-throughput-command-center/commit/dd4943e7234a09226af08c6d990b6b60c3655587 |
 
 ---
 
