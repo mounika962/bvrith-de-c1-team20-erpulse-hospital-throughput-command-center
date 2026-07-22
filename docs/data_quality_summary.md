@@ -35,9 +35,8 @@ DQ-01 – Required ID not null: Records without unique IDs cannot be trusted and
 DQ-02 – Duplicate key check: Duplicate records inflate visit counts, occupancy, and other dashboard metrics.
 
 The following rules should flag records for review before loading into Gold.
-
-DQ-03 – Valid reference key: Invalid foreign keys break joins and produce incomplete analytics.
-DQ-04 – Valid timestamp order: Incorrect timestamp order results in inaccurate wait-time, patient-flow, and throughput calculations.
+- DQ-03 – Valid reference key: Invalid foreign keys break joins and produce incomplete analytics.
+- DQ-04 – Valid timestamp order: Incorrect timestamp order results in inaccurate wait-time, patient-flow, and throughput calculations.
 ---
 
 ## 4. Quality Summary
