@@ -70,7 +70,7 @@ Week 03 Log (weekly_logs/week03_log.md)
 
 ---
 
-## 7. Next Week Preparation
+
 ## 7. Next Week Preparation
 
 - Create Bronze layer notebooks to ingest raw ERPulse datasets into Delta tables.
