@@ -1,9 +1,9 @@
 # Week 05 Log — [Sprint Name]
 
 **Week:** 5  
-**Date range:** [Add dates]  
-**Team:** [Team name / number]  
-**Project:** [Project title]
+**Date range:** 07-08-2026 to 14-08-2026  
+**Team:** 20 
+**Project:** ERPulse
 
 ---
 
@@ -59,3 +59,4 @@ Write the goal for this week in 2–3 lines.
 
 - [Action]
 - [Action]
+based on the above files and give full content
